@@ -1,0 +1,14 @@
+.tshirt-container{
+    margin-top: 50px;
+    margin-left: 10px;
+    border: 1px solid seagreen;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: bisque;
+
+}
+
+
+.tshirt-container img {
+    height: 250px;
+}
